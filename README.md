@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Rishi!
 
 <!--
 **rishi23437/rishi23437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
